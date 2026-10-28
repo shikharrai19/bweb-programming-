@@ -1,0 +1,17 @@
+<!doctype html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Famous Monument</title>
+</head>
+<body>
+  <h1>Famous Monument</h1>
+  <figure>
+    <img src="tajmahal.jpg"
+         alt="The Taj Mahal in Agra, India"
+         width="400"
+         height="250">
+    <figcaption>Figure 1: The Taj Mahal - Agra, India</figcaption>
+   </figure>
+</body>
+</html>
